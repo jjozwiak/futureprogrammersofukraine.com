@@ -12,7 +12,7 @@ On the first day, students will be taught basic programming concepts and how to 
 
 On the second day, students will be introduced to electronics and robotics using Raspberry Pi's and mBot kits. Students will work in teams of 3-4 to program their mBots and Pi's to solve problems and perform tasks.
 
-Additionally, a guest speaker who work in Ukraine’s IT industry will be invited to talk about their profession, how they established their career, and offer advice to students interested in the growing field of IT.
+Additionally, a guest speaker who works in Ukraine’s IT industry will be invited to talk about their profession, how they established their career, and offer advice to students interested in the growing field of IT.
 
 Schools will receive 2 mBots, 2 Raspberry Pi kits, and a project manual to help establish a programming club and use in regular classroom instruction in exchange for hosting a camp.
 
